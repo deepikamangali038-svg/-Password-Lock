@@ -1,0 +1,16 @@
+======================================
+        PASSWORD LOCK TESTBENCH
+======================================
+
+TEST 1: Enter correct password 1-2-3-4
+PASS: Password correct - LOCK UNLOCKED
+
+TEST 2: Enter wrong password 1-2-3-5
+PASS: Wrong password - ALARM ACTIVE
+
+TEST 3: Enter wrong password 9-2-3-4
+PASS: Wrong password - ALARM ACTIVE
+
+======================================
+        ALL TESTS COMPLETED
+======================================
